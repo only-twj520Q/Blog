@@ -20,4 +20,4 @@
 
 [**redux源码浅读**](https://github.com/only-twj520Q/Blog/blob/master/redux源码浅读.md)
 
-[**高阶函数**](https://github.com/only-twj520Q/Blog/blob/master/高阶函数.md)
+[**函数式编程**](https://github.com/only-twj520Q/Blog/blob/master/函数式编程.md)
