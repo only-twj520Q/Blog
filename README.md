@@ -19,3 +19,5 @@
 [**异步错误处理**](https://github.com/only-twj520Q/Blog/blob/master/异步错误处理.md)
 
 [**redux源码浅读**](https://github.com/only-twj520Q/Blog/blob/master/redux源码浅读.md)
+
+[**高阶函数**](https://github.com/only-twj520Q/Blog/blob/master/高阶函数.md)
