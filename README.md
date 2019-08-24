@@ -21,3 +21,12 @@
 [**redux源码浅读**](https://github.com/only-twj520Q/Blog/blob/master/redux源码浅读.md)
 
 [**函数式编程**](https://github.com/only-twj520Q/Blog/blob/master/函数式编程.md)
+
+
+
+## 系列
+
+[**node学习**](https://github.com/only-twj520Q/node-learn)
+
+[**webpack学习**](https://github.com/only-twj520Q/webpack-lessons)
+
