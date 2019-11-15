@@ -22,6 +22,8 @@
 
 [**函数式编程**](https://github.com/only-twj520Q/Blog/blob/master/函数式编程.md)
 
+[**我理解的babel**](https://github.com/only-twj520Q/Blog/blob/master/我理解的babel.md)
+
 
 
 ## 系列
